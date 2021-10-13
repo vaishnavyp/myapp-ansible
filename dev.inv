@@ -1,3 +1,2 @@
 [webservers]
-localhost
-3.235.162.190 ansible_user=ec2-user 
+3.236.193.180 ansible_user=ec2-user 
